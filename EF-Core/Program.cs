@@ -1,8 +1,20 @@
 ﻿using EF_Core.Models;
+using Microsoft.EntityFrameworkCore;
 
 using var context = new StudentDbContext();
 
 var students = context.Students.ToList();
+
+var newStudent = new Student
+{
+    Name = "Charlie",
+    Email = "charlie@example.com",
+    EnrollmentDate = new DateOnly(2023, 9, 1) 
+};
+
+context.Students.Add(newStudent);
+context.SaveChanges();
+Console.WriteLine("New student added!");
 
 foreach (var student in students)
 {
