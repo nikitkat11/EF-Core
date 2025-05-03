@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 
 using var context = new StudentDbContext();
 
-var students = context.Students.ToList();
 
 var newStudent = new Student
 {
@@ -16,6 +15,9 @@ context.Students.Add(newStudent);
 context.SaveChanges();
 Console.WriteLine("New student added!");
 
+var students = context.Students.ToList();
+
+Console.WriteLine("List of students:");
 foreach (var student in students)
 {
     Console.WriteLine($"ID: {student.Id}, Name: {student.Name}, Email: {student.Email}, Enrolled: {student.EnrollmentDate}");
