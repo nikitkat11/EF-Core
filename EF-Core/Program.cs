@@ -1,9 +1,10 @@
-﻿using EF-Core.Models;
+﻿using EF_Core.Models;
 
 using var context = new StudentDbContext();
 
-Console.WriteLine("List of Students:");
-foreach (var student in context.Students)
+var students = context.Students.ToList();
+
+foreach (var student in students)
 {
-    Console.WriteLine($"{student.Id}: {student.Name} - {student.Email} ({student.EnrollmentDate.ToShortDateString()})");
+    Console.WriteLine($"ID: {student.Id}, Name: {student.Name}, Email: {student.Email}, Enrolled: {student.EnrollmentDate}");
 }

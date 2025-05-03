@@ -146,3 +146,4 @@
 /Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net9.0/EF-Core.pdb
 /Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net9.0/EF-Core.genruntimeconfig.cache
 /Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net9.0/ref/EF-Core.dll
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net9.0/EF-Core.sourcelink.json
