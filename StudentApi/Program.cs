@@ -35,7 +35,6 @@ namespace StudentApi
                 if (student is null) return Results.NotFound();
 
                 student.Name = updatedStudent.Name;
-                student.Age = updatedStudent.Age;
                 student.EnrollmentDate = updatedStudent.EnrollmentDate;
 
                 await db.SaveChangesAsync();

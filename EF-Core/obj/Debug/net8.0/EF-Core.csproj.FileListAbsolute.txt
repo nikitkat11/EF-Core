@@ -1,0 +1,15 @@
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/bin/Debug/net8.0/EF-Core.deps.json
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/bin/Debug/net8.0/EF-Core.runtimeconfig.json
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/bin/Debug/net8.0/EF-Core.dll
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/bin/Debug/net8.0/EF-Core.pdb
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.csproj.AssemblyReference.cache
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.AssemblyInfoInputs.cache
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.AssemblyInfo.cs
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.csproj.CoreCompileInputs.cache
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.sourcelink.json
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.dll
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/refint/EF-Core.dll
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.pdb
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/EF-Core.genruntimeconfig.cache
+/Users/nikitas7/Documents/GitHub/EF-Core/EF-Core/obj/Debug/net8.0/ref/EF-Core.dll
